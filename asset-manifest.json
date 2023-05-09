@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/daft_music/static/css/main.a4f7eab3.css",
+    "main.js": "/daft_music/static/js/main.566005da.js",
+    "static/js/787.19263c31.chunk.js": "/daft_music/static/js/787.19263c31.chunk.js",
+    "static/media/logo.svg": "/daft_music/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/daft_music/index.html",
+    "main.a4f7eab3.css.map": "/daft_music/static/css/main.a4f7eab3.css.map",
+    "main.566005da.js.map": "/daft_music/static/js/main.566005da.js.map",
+    "787.19263c31.chunk.js.map": "/daft_music/static/js/787.19263c31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f7eab3.css",
+    "static/js/main.566005da.js"
+  ]
+}
