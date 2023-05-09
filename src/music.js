@@ -1,8 +1,6 @@
 import {useRef}from 'react';
 
 
-
-
 function Music(){
 
     //ex 100% javascript
@@ -17,7 +15,6 @@ function Music(){
     const playExistingSong0 = () =>{
         audioRef0.current.play();
 
-     
         }
 
     //ex avec un ref HTML
